@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+	<title> 我编写的扫雷程序 </title>
+	<meta http-equiv="content-language" content="zh-cn" />
+	<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="content-script-type" content="text/JScript" />
+	<meta name="generator" content="microsoft notepad" />
+	<meta name="author" content="吴雷" />
+	<meta name="company" content="北京华泰友信公司" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<!--meta http-equiv="refresh" content="0; url=http://"-->
+	<style type="text/css" title="">
+		body	{font-family:宋体;	font-size:12px;}
+		table	{font-family:宋体;	font-size:12px;}
+		input	{font-family:宋体;	font-size:12px;}
+
+		table.sl{
+			border-top: 1px solid #000000;
+			border-left: 1px solid #000000;
+			border-right: 1px; solid #000000;
+			border-bottom: 1px; solid #000000;
+		}
+		.sl td {
+			border-top: 1px solid #FFFFFF;
+			border-left: 1px solid #FFFFFF;
+			border-right: 1px solid #878787;
+			border-bottom: 1px solid #878787;
+			background-color: #e7e7e7;
+		}
+	</style>
+
+<script type="text/javascript" language="javascript" defer="defer">
+// <![CDATA[
+/** 方法：返回指定范围内的随机数
+	参数：big      上限，number，可选，默认为1
+		  small    下限，number，可选，默认为0
+		  afterDot 小数点后保留位数，number，可选，默认为0
+*/
+function getRnd(big, small, afterDot){
+	var _big      = Math.floor(big      ? big      : 1);
+	var _small    = Math.floor(small    ? small    : 0);
+	var _afterDot = Math.floor(afterDot ? afterDot : 0);
+	var _random   = (Math.random() * ((_afterDot?_big:_big+1) - _small)) + _small;
+	return Math.floor(_random * Math.pow(10,_afterDot))/Math.pow(10,_afterDot);
+}
+
+function getIEVer(){
+	var ua = navigator.userAgent;
+	var b  = ua.indexOf("MSIE ");
+	if(b < 0)
+		return 0;
+	return parseFloat(ua.substring(b + 5, ua.indexOf(";", b)));
+}
+var ieVer = getIEVer();
+// ]]>
+</script>
+</head>
+<body style="background-color:White; margin-top:0px; margin-left:0px;">
+
+<table id="" class="sl" cellpadding="1" cellspacing="0">
+	<tr>
+		<td>行数</td>
+		<td><input id="txtRowsCount" type="text" name="" value="15" style="width: 30px;" /></td>
+		<td>列数</td>
+		<td><input id="txtCellCount" type="text" name="" value="15" style="width: 30px;" /></td>
+		<td>雷数</td>
+		<td><input id="txtBombCount" type="text" name="" value="30" style="width: 30px;" /></td>
+	</tr>
+	<tr>
+		<td>计时</td>
+		<td><input id="txtTimeSpan" type="text" name="" value="0" style="width: 30px;" disabled="disabled" /></td>
+		<td>标记</td>
+		<td><input id="txtFlagCount" type="text" name="" value="0" style="width: 30px;" disabled="disabled" /></td>
+		<td colspan="2" style="text-align: right;"><input id="" type="button" name="" value="重置" onclick="init()" /></td>
+	</tr>
+</table>
+<table id="tabGameBox" class="sl" cellpadding="1" cellspacing="0">
+	<tbody></tbody>
+</table>
+
+<script type="text/javascript" language="javascript" defer="defer">
+// <![CDATA[
+var rowsCount = 15;
+var cellCount = 15;
+var bombCount = 30;
+var flagCount = 0;
+var allCount  = rowsCount * cellCount;
+var ShowAllOnBoom = true;
+var endFlag   = false;
+var startFlag = false;
+var timeSpan  = 0;
+var tab;
+/// 初始化
+function init(){
+	tab       = document.getElementById("tabGameBox");
+	if(ieVer == 0)
+		tab = tab;//.childNodes[0];
+	else if(ieVer <= 7)
+		tab = tab.childNodes[0];
+	rowsCount = parseInt(document.getElementById("txtRowsCount").value);
+	cellCount = parseInt(document.getElementById("txtCellCount").value);
+	bombCount = parseInt(document.getElementById("txtBombCount").value);
+	allCount  = rowsCount * cellCount;
+	if(bombCount >= allCount){
+		alert("搞错没？地雷比格子都多，扫个P啊。");
+		return;
+	}
+	flagCount = 0;
+	document.getElementById("txtFlagCount").value = flagCount;
+
+	// 删除全部格子
+	for(var i=tab.childNodes.length-1; i>=0; i--){
+		tab.removeChild(tab.childNodes[i]);
+	}
+
+	// 创建全部格子
+	for(var i=0; i<rowsCount; i++){
+		var row = document.createElement("tr");
+		tab.appendChild(row);
+		for(var j=0; j<cellCount; j++){
+			var cel = document.createElement("td");
+			row.appendChild(cel);
+			cel.innerHTML = "&nbsp;";
+			cel.style.textAlign = "center";
+			cel.style.width = "14px";
+			cel.bgc = '#e7e7e7';
+			cel.x = j;
+			cel.y = i;
+			//cel.className = "sl";
+			cel.onmouseover   = function(){ if(!endFlag) this.style.backgroundColor = '#F0F0F0'; }
+			cel.onmouseout    = function(){ if(!endFlag) this.style.backgroundColor = this.bgc;  }
+			cel.oncontextmenu = function(){
+				if(!startFlag && !endFlag)
+					startFlag = true;
+				if(endFlag || this.chked)
+					return false;
+				if(this.flag){
+					this.flag = false;
+					this.innerText = " ";
+					document.getElementById("txtFlagCount").value = --flagCount;
+				}
+				else if(flagCount < bombCount){
+					this.flag = true;
+					this.innerText = "@";
+					document.getElementById("txtFlagCount").value = ++flagCount;
+				}
+				CheckV();
+				return false;
+			}
+			cel.onclick       = function(){
+				if(!startFlag && !endFlag)
+					startFlag = true;
+				if(endFlag || this.flag)
+					return;
+				this.bgc = '#F7F7F7';
+				if(this.bomb){
+					Boom(this);
+				}
+				else{
+					Account8(this);
+				}
+				CheckV();
+			}
+			cel.onmousedown = function(){
+				if(!startFlag && !endFlag)
+					startFlag = true;
+				if(endFlag || this.flag || !this.chked || event.button != 3)
+					return;
+				var r = new Round8(this);
+				if(r.Sum8B() == r.Sum8F())
+				{
+					if(!endFlag && r.c1) Account8(r.c1);
+					if(!endFlag && r.c2) Account8(r.c2);
+					if(!endFlag && r.c3) Account8(r.c3);
+					if(!endFlag && r.c4) Account8(r.c4);
+					if(!endFlag && r.c6) Account8(r.c6);
+					if(!endFlag && r.c7) Account8(r.c7);
+					if(!endFlag && r.c8) Account8(r.c8);
+					if(!endFlag && r.c9) Account8(r.c9);
+				}
+				CheckV();
+			}
+		}
+	}
+
+	var pcBomb = 0;
+	for(var i=0; i<bombCount; i++){
+		SetBomb();
+	}
+	endFlag   = false;
+	startFlag = false;
+	timeSpan  = 0;
+	document.getElementById("txtTimeSpan").value = 0;
+}
+
+/// 炸弹爆炸
+function Boom(cel){
+	cel.innerText = "*";
+	if(ShowAllOnBoom){
+		for(var i=0; i<rowsCount; i++){
+			for(var j=0; j<cellCount; j++){
+				var _c = tab.childNodes[i].childNodes[j];
+				if(_c.bomb){
+					_c.innerText = "*";
+					_c.bgc = '#aaaaaa';
+					_c.style.backgroundColor = '#aaaaaa'; 
+				}
+			}
+		}
+	}
+	endFlag = true;
+	startFlag = false;
+	alert("地雷爆炸。很遗憾，你失败了。");
+}
+
+/// 检测胜利条件
+function CheckV(){
+	if(flagCount != bombCount)
+		return false;
+	for(var i=0; i<rowsCount; i++){
+		for(var j=0; j<cellCount; j++){
+			var _c = tab.childNodes[i].childNodes[j];
+			if((_c.bomb && !_c.flag) || (!_c.bomb && !_c.chked)){
+				return false;
+			}
+		}
+	}
+	alert("恭喜你，胜利了！  ^_^\r\n用时："+timeSpan+"秒");
+	endFlag = true;
+	startFlag = false;
+	return true;
+}
+
+/// 在随机格子中安装炸弹，如果随机格子中已有炸弹，则迭代计算，直到成功安装为止
+function SetBomb(){
+	var x = getRnd(cellCount-1, 0, 0);
+	var y = getRnd(rowsCount-1, 0, 0);
+	if(!tab.childNodes[y].childNodes[x].bomb)
+		tab.childNodes[y].childNodes[x].bomb = true;
+	else
+		return SetBomb(tab);
+}
+/// 周边8格类
+function Round8(cel){
+	var x = cel.x;
+	var y = cel.y;
+	this.cel = cel;
+	// 从c1到c9表示周边的8个格子(没有c5是因为c5就是当前格子)
+	this.c1 = x>0           && y>0           ? tab.childNodes[y-1].childNodes[x-1] : null;
+	this.c2 =                  y>0           ? tab.childNodes[y-1].childNodes[x  ] : null;
+	this.c3 = x<cellCount-1 && y>0           ? tab.childNodes[y-1].childNodes[x+1] : null;
+
+	this.c4 = x>0                            ? tab.childNodes[y  ].childNodes[x-1] : null;
+	this.c6 = x<cellCount-1                  ? tab.childNodes[y  ].childNodes[x+1] : null;
+
+	this.c7 = x>0           && y<rowsCount-1 ? tab.childNodes[y+1].childNodes[x-1] : null;
+	this.c8 =                  y<rowsCount-1 ? tab.childNodes[y+1].childNodes[x  ] : null;
+	this.c9 = x<cellCount-1 && y<rowsCount-1 ? tab.childNodes[y+1].childNodes[x+1] : null;
+
+	// 计算周边8个格子的雷数
+	this.Sum8B = function(){
+		var c = 0;
+		if(this.c1 && this.c1.bomb) c++;
+		if(this.c2 && this.c2.bomb) c++;
+		if(this.c3 && this.c3.bomb) c++;
+		if(this.c4 && this.c4.bomb) c++;
+		if(this.c6 && this.c6.bomb) c++;
+		if(this.c7 && this.c7.bomb) c++;
+		if(this.c8 && this.c8.bomb) c++;
+		if(this.c9 && this.c9.bomb) c++;
+		return c;
+	}
+	// 计算周边8个格子的标记数
+	this.Sum8F = function(){
+		var c = 0;
+		if(this.c1 && this.c1.flag) c++;
+		if(this.c2 && this.c2.flag) c++;
+		if(this.c3 && this.c3.flag) c++;
+		if(this.c4 && this.c4.flag) c++;
+		if(this.c6 && this.c6.flag) c++;
+		if(this.c7 && this.c7.flag) c++;
+		if(this.c8 && this.c8.flag) c++;
+		if(this.c9 && this.c9.flag) c++;
+		return c;
+	}
+}
+
+/// 计算指定格子周边8个格子的雷数，并显示在当前格子中
+/// 如果周边雷数为0，则向8个方向继续迭代搜索，以此类推
+function Account8(cel){
+	if(cel.chked || cel.flag)
+		return;
+	if(cel.bomb){
+		Boom(cel);
+		return;
+	}
+	var r = new Round8(cel);
+	var c = r.Sum8B();
+	cel.innerText = c;
+	cel.bgc = '#F7F7F7';
+	cel.style.backgroundColor = cel.bgc;
+	cel.chked = true;
+
+	// 如果周边雷数为0，则向8个方向继续迭代搜索，以此类推
+	if(c==0){
+		if(r.c1) Account8(r.c1);
+		if(r.c2) Account8(r.c2);
+		if(r.c3) Account8(r.c3);
+		if(r.c4) Account8(r.c4);
+		if(r.c6) Account8(r.c6);
+		if(r.c7) Account8(r.c7);
+		if(r.c8) Account8(r.c8);
+		if(r.c9) Account8(r.c9);
+	}
+}
+
+/// 计时
+function AccountTime(){
+	if(startFlag && !endFlag){
+		document.getElementById("txtTimeSpan").value = ++timeSpan;
+	}
+}
+window.onload = init;
+setInterval("AccountTime()", 1000);
+// ]]>
+</script>
+
+</body>
+</html>
