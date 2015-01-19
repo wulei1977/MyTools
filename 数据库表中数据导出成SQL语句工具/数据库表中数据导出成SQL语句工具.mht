@@ -1,0 +1,2236 @@
+From: =?gb2312?B?08kgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA5ILGjtOY=?=
+Subject: =?gb2312?B?yv2+3b/ise3W0Mr9vt21vLP2s8lTUUzT777kuaS+3w==?=
+Date: Mon, 25 Jun 2012 15:03:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CD52E3.A1BC52E0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7600.16807
+
+这是 MIME 格式的多方邮件。
+
+------=_NextPart_000_0000_01CD52E3.A1BC52E0
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: =?gb2312?B?ZmlsZTovL0U6XFdvcmtcTXlUb29sc1zK/b7dv+Kx7dbQyv2+3bW8s/azyVM=?=
+	=?gb2312?B?UUzT777kuaS+31zK/b7dv+Kx7dbQyv2+3bW8s/azyVNRTNPvvuS5pA==?=
+	=?gb2312?B?vt8uaHRtbA==?=
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML=20
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE> =
+=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=B5=BC=B3=F6=B3=C9SQL=D3=EF=BE=E4=
+=B9=A4=BE=DF </TITLE>
+<META content=3D"zh-cn" http-equiv=3D"content-language">
+<META content=3D"text/html; charset=3Dgb2312" =
+http-equiv=3D"content-type">
+<META content=3D"no-cache" http-equiv=3D"pragma">
+<META content=3D"no-cache" http-equiv=3D"cache-control">
+<META content=3D"0" http-equiv=3D"expires">
+<META content=3D"text/JScript" http-equiv=3D"content-script-type">
+<META name=3D"GENERATOR" content=3D"MSHTML 9.00.8112.16446">
+<META name=3D"author" content=3D"=CE=E2=C0=D7">
+<META name=3D"company" =
+content=3D"=B1=B1=BE=A9=BB=AA=CC=A9=D3=D1=D0=C5=B9=AB=CB=BE">
+<META name=3D"keywords" content=3D"">
+<META name=3D"description" content=3D""><!--meta http-equiv=3D"refresh" =
+content=3D"0; url=3Dhttp://"-->
+<STYLE title=3D"" type=3D"text/css">=0A=
+		body	{font-family:=CB=CE=CC=E5;	font-size:12px;}=0A=
+		table	{font-family:=CB=CE=CC=E5;	font-size:12px;}=0A=
+		input	{font-family:=CB=CE=CC=E5;	font-size:12px;}=0A=
+	</STYLE>
+
+<SCRIPT language=3D"javascript" type=3D"text/javascript" =
+src=3D"file:///E:/Work/MyTools/=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=
+=B5=BC=B3=F6=B3=C9SQL=D3=EF=BE=E4=B9=A4=BE=DF/prototype.js"></SCRIPT>
+</HEAD>
+<BODY=20
+style=3D"margin-top: 0px; margin-left: 0px; background-color: =
+white;">=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=B5=BC=B3=F6=B3=C9SQL=D3=
+=EF=BE=E4=B9=A4=BE=DF=20
+&gt;&gt;=20
+<HR>
+
+<TABLE style=3D"word-break: break-all;" border=3D"1" cellSpacing=3D"0"=20
+borderColorLight=3D"#878787" borderColorDark=3D"#ffffff" =
+cellPadding=3D"2" width=3D"300"=20
+bgColor=3D"#e7e7e7" align=3D"center">
+  <TBODY>
+  <TR>
+    <TD><IMG align=3D"absmiddle" =
+src=3D"file:///E:/Work/MyTools/=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=
+=B5=BC=B3=F6=B3=C9SQL=D3=EF=BE=E4=B9=A4=BE=DF/server.png">&nbsp;=B7=FE=CE=
+=F1=C6=F7=A3=BA</TD>
+    <TD><INPUT id=3D"serverName" name=3D"serverName" =
+value=3D"(LOCAL)\SQLEXPRESS"=20
+      type=3D"text"></TD></TR>
+  <TR>
+    <TD><IMG align=3D"absmiddle" =
+src=3D"file:///E:/Work/MyTools/=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=
+=B5=BC=B3=F6=B3=C9SQL=D3=EF=BE=E4=B9=A4=BE=DF/uname.png">&nbsp;=B5=C7=C2=BC=
+=C3=FB=A3=BA</TD>
+    <TD><INPUT id=3D"loginName" name=3D"loginName" value=3D"sa" =
+type=3D"text"></TD></TR>
+  <TR>
+    <TD><IMG align=3D"absmiddle" =
+src=3D"file:///E:/Work/MyTools/=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=
+=B5=BC=B3=F6=B3=C9SQL=D3=EF=BE=E4=B9=A4=BE=DF/upass.png">&nbsp;=C3=DC&nbs=
+p;&nbsp;=C2=EB=A3=BA</TD>
+    <TD><INPUT id=3D"loginPass" name=3D"loginPass" =
+type=3D"password"></TD></TR>
+  <TR>
+    <TD><IMG align=3D"absmiddle" =
+src=3D"file:///E:/Work/MyTools/=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=
+=B5=BC=B3=F6=B3=C9SQL=D3=EF=BE=E4=B9=A4=BE=DF/db.png">&nbsp;=CA=FD=BE=DD=BF=
+=E2=A3=BA</TD>
+    <TD><INPUT id=3D"databaseName" name=3D"databaseName" =
+type=3D"text"></TD></TR>
+  <TR>
+    <TD><IMG align=3D"absmiddle" =
+src=3D"file:///E:/Work/MyTools/=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=
+=B5=BC=B3=F6=B3=C9SQL=D3=EF=BE=E4=B9=A4=BE=DF/dbstate.png">&nbsp;=D7=B4&n=
+bsp;&nbsp;=CC=AC=A3=BA</TD>
+    <TD><IMG id=3D"imgConnectionState" align=3D"absmiddle" =
+src=3D"file:///E:/Work/MyTools/=CA=FD=BE=DD=BF=E2=B1=ED=D6=D0=CA=FD=BE=DD=
+=B5=BC=B3=F6=B3=C9SQL=D3=EF=BE=E4=B9=A4=BE=DF/dbdesconn.png">&nbsp;<LABEL=
+=20
+      id=3D"connType">=CE=B4=C1=AC=BD=D3</LABEL></TD></TR>
+  <TR>
+    <TD colSpan=3D"2" align=3D"center"><INPUT id=3D"butLogin" =
+onclick=3D"mask();setTimeout('connLogin();mask(-1)',100);" =
+name=3D"butLogin" value=3D"=B5=C7=C2=BC" type=3D"button"></TD></TR>
+  </TBODY></TABLE>
+<SCRIPT language=3D"javascript" type=3D"text/javascript">=0A=
+// <!CDATA[=0A=
+var conn =3D new ActiveXObject("ADODB.Connection");=0A=
+function connLogin(){=0A=
+	var cs    =3D $("imgConnectionState");=0A=
+	var but   =3D $("butLogin");=0A=
+	var lab   =3D $("connType");=0A=
+	var svr   =3D $F("serverName");=0A=
+	var uid   =3D $F("loginName");=0A=
+	var upass =3D $F("loginPass");=0A=
+	var dbn   =3D $F("databaseName");=0A=
+	if(but.value =3D=3D "=B5=C7=B3=F6")=0A=
+	{ conn.Close(); conn.ConnectionString =3D ""; lab.innerText =3D =
+"=CE=B4=C1=AC=BD=D3"; cs.src =3D "dbdesconn.png"; but.value =3D =
+"=B5=C7=C2=BC"; return; }=0A=
+	if(conn.ConnectionString !=3D "") conn.Close();=0A=
+	conn.ConnectionString =3D "Provider=3DSQLOLEDB;Data Source=3D" + svr + =
+";User ID=3D" + uid + ";Password=3D" + upass + ";Initial Catalog=3D" + =
+dbn;=0A=
+	try{=0A=
+		conn.Open(); lab.innerText =3D "=D2=D1=C1=AC=BD=D3"; cs.src =3D =
+"dbconn.png"; but.value =3D "=B5=C7=B3=F6";=0A=
+	}catch(e){=0A=
+		alert(e.description);=0A=
+		conn.ConnectionString =3D ""; lab.innerText =3D "=CE=B4=C1=AC=BD=D3"; =
+cs.src =3D "dbdesconn.png"; but.value =3D "=B5=C7=C2=BC";=0A=
+	}=0A=
+}=0A=
+// ]]>=0A=
+</SCRIPT>
+<!-- =
+-------------------------------------------------------------------------=
+-------------------------------------- -->
+<HR>
+
+<TABLE style=3D"word-break: break-all;" border=3D"1" cellSpacing=3D"0"=20
+borderColorLight=3D"#878787" borderColorDark=3D"#ffffff" =
+cellPadding=3D"2" width=3D"100%"=20
+bgColor=3D"#e7e7e7" align=3D"center">
+  <TBODY>
+  <TR>
+    <TD>=B1=ED=C3=FB</TD>
+    <TD><INPUT id=3D"txtTableName" name=3D"txtTableName" =
+type=3D"text"></TD></TR>
+  <TR>
+    <TD>=D7=D4=D4=F6=D7=D6=B6=CE=C3=FB</TD>
+    <TD><INPUT id=3D"txtIdentity" name=3D"txtIdentity" =
+type=3D"text"></TD></TR>
+  <TR>
+    <TD><INPUT id=3D"chkFilter" =
+onclick=3D"$('txtFilter').disabled=3D!this.checked;"=20
+      name=3D"chkFilter" value=3D"" type=3D"checkbox"><LABEL=20
+    for=3D"chkFilter">=CC=F5=BC=FE</LABEL></TD>
+    <TD><INPUT style=3D"width: 99%;" id=3D"txtFilter" =
+disabled=3D"disabled" name=3D"txtFilter"=20
+      type=3D"text"></TD></TR>
+  <TR>
+    <TD>=CA=E4=B3=F6=B5=C4SQL=D3=EF=BE=E4</TD>
+    <TD><TEXTAREA id=3D"txtResultSQL" cols=3D"120" rows=3D"10" =
+name=3D"txtResultSQL"></TEXTAREA></TD></TR>
+  <TR>
+    <TD colSpan=3D"2" align=3D"center"><INPUT id=3D"butGetSQL" =
+onclick=3D"getSQL()" name=3D"butGetSQL" =
+value=3D"=CA=E4=B3=F6SQL=D3=EF=BE=E4" type=3D"button"></TD></TR>
+  </TBODY></TABLE>
+<SCRIPT language=3D"javascript" type=3D"text/javascript">=0A=
+// <!CDATA[=0A=
+function getSQL(){=0A=
+	var Dict =3D {3:"int", 5:"float", 200:"varchar", 201:"text", =
+202:"nvarchar", 203:"ntext", 11:"bit", 135:"datetime"};=0A=
+	if(!conn.ConnectionString){=0A=
+		alert("=CA=FD=BE=DD=BF=E2=CE=B4=C1=AC=BD=D3=A3=A1");=0A=
+		return;=0A=
+	}=0A=
+=0A=
+	var dbn   =3D $F("databaseName");=0A=
+	var table =3D $F("txtTableName");=0A=
+	var identity =3D $F("txtIdentity");=0A=
+	var sql =3D $("txtResultSQL");=0A=
+	var rs =3D conn.Execute("SELECT * FROM " + table + =
+($("chkFilter").checked && $("txtFilter").value!=3D"" ? " WHERE " + =
+$("txtFilter").value : ""));=0A=
+	var arr=3D [];=0A=
+=0A=
+	for(var i=3D0; i<rs.Fields.count; i++){=0A=
+	//	alert(rs.Fields.Item(i).Name + "\n" + rs.Fields.Item(i).Type);=0A=
+	}=0A=
+=0A=
+	while(!rs.Eof){=0A=
+		arr[arr.length] =3D "INSERT INTO [" + dbn + "].[dbo].[" + table + "]";=0A=
+		var arrFields =3D [];=0A=
+		var arrValues =3D [];=0A=
+		for(var i=3D0; i<rs.Fields.count; i++){=0A=
+			if(rs.Fields.Item(i).Name.toLowerCase() =3D=3D =
+identity.toLowerCase()) continue;=0A=
+			arrFields[arrFields.length] =3D rs.Fields.Item(i).Name;=0A=
+			var v =3D rs(rs.Fields.Item(i).Name).value;=0A=
+			if(v=3D=3Dnull){=0A=
+				arrValues[arrValues.length] =3D "null";=0A=
+				continue;=0A=
+			}=0A=
+=0A=
+			switch(rs.Fields.Item(i).Type){=0A=
+				case 2:		//smallint=0A=
+				case 3:		//int=0A=
+				case 4:		//real=0A=
+				case 5:		//float=0A=
+				case 6:		//money=0A=
+				case 131:	//numeric=0A=
+					arrValues[arrValues.length] =3D v.toString();=0A=
+					break;=0A=
+				case 11:	//bit=0A=
+					arrValues[arrValues.length] =3D v ? 1 : 0;=0A=
+					break;=0A=
+				case 7:		//datetime=0A=
+				case 135:	//smalldatetime=0A=
+					arrValues[arrValues.length] =3D "'" + new =
+Date(Date.parse(v)).format() + "'";=0A=
+					break;=0A=
+				case 129:	//char=0A=
+				case 130:	//nchar=0A=
+				case 200:	//varchar=0A=
+				case 201:	//text=0A=
+				case 202:	//nvarchar=0A=
+				case 203:	//ntext=0A=
+					arrValues[arrValues.length] =3D "'" + v.toString().replace(/'/g, =
+"''") + "'";=0A=
+					break;=0A=
+				default:=0A=
+					arrValues[arrValues.length] =3D "'" + v.toString() + "'";=0A=
+					break;=0A=
+			}=0A=
+			=0A=
+		}=0A=
+		arr[arr.length] =3D "(" + arrFields.join(",") + ")VALUES(" + =
+arrValues.join(",") + ");";=0A=
+		rs.MoveNext();=0A=
+	}=0A=
+	sql.value =3D arr.join("\n");=0A=
+}=0A=
+// ]]>=0A=
+</SCRIPT>
+<!-- =
+-------------------------------------------------------------------------=
+-------------------------------------- -->
+<HR>
+
+<TABLE style=3D"left: 0px; top: 0px; width: 100%; height: 100%; display: =
+none; filter: progid:DXImageTransform.Microsoft.Alpha( Opacity=3D30, =
+FinishOpacity=3D30, Style=3D1, StartX=3D0,  FinishX=3D100, StartY=3D0, =
+FinishY=3D100); position: absolute; z-index: 100;"=20
+id=3D"tabMask" border=3D"0" cellSpacing=3D"0" cellPadding=3D"0" =
+bgColor=3D"#666666">
+  <TBODY>
+  <TR>
+    <TD style=3D"width: 100%; height: 100%; font-size: 60px; =
+font-weight: bold; cursor: wait;"=20
+    =
+align=3D"center">=D5=FD=D4=DA=B4=A6=C0=ED<BR>=C7=EB=C9=D4=BA=F2<BR>=A1=AD=
+=A1=AD</TD></TR></TBODY></TABLE>
+<SCRIPT language=3D"javascript" type=3D"text/javascript">=0A=
+// <!CDATA[=0A=
+//=BD=ABDate=C0=E0=CA=B5=C0=FD=D7=AA=B3=C9=D6=B8=B6=A8=D1=DA=C2=EB=B8=F1=CA=
+=BD=B5=C4=CA=B1=BC=E4=D7=D6=B7=FB=B4=AE=A3=AC=C4=AC=C8=CF=CA=C7yyyy-MM-dd=
+ hh:mm:ss=0A=
+Date.prototype.format =3D function(format){=0A=
+	var _f =3D format ? format : "yyyy-MM-dd hh:mm:ss";=0A=
+	var o =3D {=0A=
+		"M+" : this.getMonth()+1,					//month=0A=
+		"d+" : this.getDate(),						//day=0A=
+		"h+" : this.getHours(),						//hour=0A=
+		"m+" : this.getMinutes(),					//minute=0A=
+		"s+" : this.getSeconds(),					//second=0A=
+		"q+" : Math.floor((this.getMonth()+3)/3),	//quarter=0A=
+		"S"  : this.getMilliseconds()				//millisecond=0A=
+	};=0A=
+	if(/(y+)/.test(_f)) _f =3D _f.replace(RegExp.$1, =
+(this.getFullYear().toString()).substr(4 - RegExp.$1.length));=0A=
+	for(var k in o){=0A=
+		if(new RegExp("("+ k +")").test(_f)){=0A=
+			_f =3D _f.replace(RegExp.$1, RegExp.$1.length=3D=3D1 ? o[k] : ("00"+ =
+o[k]).substr((""+ o[k]).length));=0A=
+		}=0A=
+	}=0A=
+	return _f;=0A=
+=0A=
+};=0A=
+=0A=
+=0A=
+function mask(unMmaskFlag){=0A=
+	if(unMmaskFlag)=0A=
+		$(tabMask).style.display =3D "none";=0A=
+	else=0A=
+		$(tabMask).style.display =3D "block";=0A=
+}=0A=
+=0A=
+// ]]>=0A=
+</SCRIPT>
+</BODY></HTML>
+
+------=_NextPart_000_0000_01CD52E3.A1BC52E0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: =?gb2312?B?ZmlsZTovLy9FOi9Xb3JrL015VG9vbHMvyv2+3b/ise3W0Mr9vt21vA==?=
+	=?gb2312?B?s/azyVNRTNPvvuS5pL7fL3NlcnZlci5wbmc=?=
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAADASURBVDhPlVNBCoQwDGwlj/IgSx8mUsSHlcXDPkpWO4Us3Zi0GAhC40yTmdS7HNu6
+nfhaMS+zt2oEcAjBBKeUHA10Ht9DJSEgp9ekFnudAVsI9veujoDbY4yt6Zxv3QIwpzVCIbBEssjr
+/80R0D5CI4eoqKGr5ggMpjW7sPy78HNGa1OegQAp1QTJwC7ACU5zaRSSQvAkZCePCaQWN4KxsdYS
+jM5vBJ9sH96GFNJyobwB9rXWgle4uwc9ATXyeq0vMeR4BLVoH0QAAAAASUVORK5CYII=
+
+------=_NextPart_000_0000_01CD52E3.A1BC52E0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: =?gb2312?B?ZmlsZTovLy9FOi9Xb3JrL015VG9vbHMvyv2+3b/ise3W0Mr9vt21vA==?=
+	=?gb2312?B?s/azyVNRTNPvvuS5pL7fL3VuYW1lLnBuZw==?=
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAD2SURBVDhPjVPtDoMgDATDY5mlj+UPs5DFHz4WWXws4ubRFQuKjoRY+nF3lGrNzXKd
++7RS4hqt1cHpNRXJ3vs7fJMBUExEuUDbtyg1M2S3toAt7yXldBpdnC3GEEIKiVr0oABoFaIXSO4f
+vQWJ94MB2EFBC2B8jrlXAImry+e/FNQ9ggo0+fQKkCZ3FUX1c0KFxJJRM8Cni8AEVn1FUZB8V8+m
+wWFzLn9R28EJhnpvGqDDgEnYYe/KeEqdHgyxifDeQzoSzT+VPOY83YjNm/KpHCTqyVCgrYmUEnjv
+i4Gx2B/X0dqzBhZVJwe5Rv4br37ZFhiKEfsCAtue8/aLdLwAAAAASUVORK5CYII=
+
+------=_NextPart_000_0000_01CD52E3.A1BC52E0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: =?gb2312?B?ZmlsZTovLy9FOi9Xb3JrL015VG9vbHMvyv2+3b/ise3W0Mr9vt21vA==?=
+	=?gb2312?B?s/azyVNRTNPvvuS5pL7fL3VwYXNzLnBuZw==?=
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAACTSURBVDhPxZPhCoAgDIQtfOx++EN6MumppOIGF1OcFgUFMdB9t+tGzv39TE8M+Nkf
+7M97vs8CJJy2JCJazDRBkFBdRYRNrQqgBaMX55eANYEC+p7W9WeJCypq6JYDBqCV4xrFHireXgbd
+VUAE60INMRRhhyW4YpWYhA6r1iEXaiO4e/8Kpo1PREb/hDVkxDWz0ocnSvjkzb27OOwAAAAASUVO
+RK5CYII=
+
+------=_NextPart_000_0000_01CD52E3.A1BC52E0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: =?gb2312?B?ZmlsZTovLy9FOi9Xb3JrL015VG9vbHMvyv2+3b/ise3W0Mr9vt21vA==?=
+	=?gb2312?B?s/azyVNRTNPvvuS5pL7fL2RiLnBuZw==?=
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAACtSURBVDhPjVIBDsQgCBvLPcyn+TR/5q3GGtTiZkKMQEsF7NKnBv7VbbdIbOBa62bM
+zTkPmCcAcFQ2s2s1oDwY759XUEo5Kk8pbfGJAFGVBH9ErnrQkr2dZEkCKonUeMKQgArexikJUNnb
+iWRrohrVOrrjFyD9a3UScYHk/RA2P+9HzbxwPSi/CSVYaWwklfVEI2BqIqV7NoKdb4DhwwPyQgVR
+ZQIawduseyGZ9gc5/l9U3GIc/QAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01CD52E3.A1BC52E0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: =?gb2312?B?ZmlsZTovLy9FOi9Xb3JrL015VG9vbHMvyv2+3b/ise3W0Mr9vt21vA==?=
+	=?gb2312?B?s/azyVNRTNPvvuS5pL7fL2Ric3RhdGUucG5n?=
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAADSSURBVDhPrVNBCsMgENTgoU/q0YeFIiUPk5JDn9SDJHWWrkzEbQ5tQFTWmZ3Z3Tj3
+4+cZv9yX3eKbb/Phrb4LegA4xjjE55xdmMJetjIkcd8yI4YFghG7MHJ2ZDv7UkpO1TQCBllW9A3i
+BztsAef1sYrc8pEdtiJ37L2dSVkBUiCrAUldXvfeXiOAd/ZP2QVcs8tuEqDP3OtLeUGyZ/m49wT/
+64JW/qwDqkC70CZRA/0c6J17zzZaEXtvV2OszSL2gSdNpJUdmFZVa9ZloKyfqMbeiMyKmd+Idg0A
+AAAASUVORK5CYII=
+
+------=_NextPart_000_0000_01CD52E3.A1BC52E0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: =?gb2312?B?ZmlsZTovLy9FOi9Xb3JrL015VG9vbHMvyv2+3b/ise3W0Mr9vt21vA==?=
+	=?gb2312?B?s/azyVNRTNPvvuS5pL7fL2RiZGVzY29ubi5wbmc=?=
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAACkSURBVDhPrVNBDsAgCJPFf82n+TT3MkeNmMWBmGwmZIeOQgtQ4Jdzrvhaj3GysIjk
+lJKZXEoBhgIqSQTKBCrodYbcRsBVVAmoziQrdYFWVZAsYUloBJZJFvnzf1NCNw8daP6IZPIkmOMb
+k9Ha3HG/O1sPmQImITHbzv1WiRlrBF/e/wSnstbsJEm4Ei7ePtzGhpHtPmRMr1WWFXb3YMNA7U7G
+ftwGpVcXvfMbWwAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01CD52E3.A1BC52E0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: =?gb2312?B?ZmlsZTovLy9FOi9Xb3JrL015VG9vbHMvyv2+3b/ise3W0Mr9vt21vA==?=
+	=?gb2312?B?s/azyVNRTNPvvuS5pL7fL3Byb3RvdHlwZS5qcw==?=
+
+=EF=BB=BF/*  Prototype JavaScript framework, version 1.4.0
+ *  (c) 2005 Sam Stephenson <sam@conio.net>
+ *
+ *  Prototype is freely distributable under the terms of an MIT-style =
+license.
+ *  For details, see the Prototype web site: http://prototype.conio.net/
+ *
+/*-----------------------------------------------------------------------=
+---*/
+
+var Prototype =3D {
+  Version: '1.4.0',
+  ScriptFragment: '(?:<script.*?>)((\n|\r|.)*?)(?:<\/script>)',
+
+  emptyFunction: function() {},
+  K: function(x) {return x}
+}
+
+var Class =3D {
+  create: function() {
+    return function() {
+      this.initialize.apply(this, arguments);
+    }
+  }
+}
+
+var Abstract =3D new Object();
+
+Object.extend =3D function(destination, source) {
+  for (property in source) {
+    destination[property] =3D source[property];
+  }
+  return destination;
+}
+
+Object.inspect =3D function(object) {
+  try {
+    if (object =3D=3D undefined) return 'undefined';
+    if (object =3D=3D null) return 'null';
+    return object.inspect ? object.inspect() : object.toString();
+  } catch (e) {
+    if (e instanceof RangeError) return '...';
+    throw e;
+  }
+}
+
+Function.prototype.bind =3D function() {
+  var __method =3D this, args =3D $A(arguments), object =3D =
+args.shift();
+  return function() {
+    return __method.apply(object, args.concat($A(arguments)));
+  }
+}
+
+Function.prototype.bindAsEventListener =3D function(object) {
+  var __method =3D this;
+  return function(event) {
+    return __method.call(object, event || window.event);
+  }
+}
+
+Object.extend(Number.prototype, {
+  toColorPart: function() {
+    var digits =3D this.toString(16);
+    if (this < 16) return '0' + digits;
+    return digits;
+  },
+
+  succ: function() {
+    return this + 1;
+  },
+
+  times: function(iterator) {
+    $R(0, this, true).each(iterator);
+    return this;
+  }
+});
+
+var Try =3D {
+  these: function() {
+    var returnValue;
+
+    for (var i =3D 0; i < arguments.length; i++) {
+      var lambda =3D arguments[i];
+      try {
+        returnValue =3D lambda();
+        break;
+      } catch (e) {}
+    }
+
+    return returnValue;
+  }
+}
+
+/*-----------------------------------------------------------------------=
+---*/
+
+var PeriodicalExecuter =3D Class.create();
+PeriodicalExecuter.prototype =3D {
+  initialize: function(callback, frequency) {
+    this.callback =3D callback;
+    this.frequency =3D frequency;
+    this.currentlyExecuting =3D false;
+
+    this.registerCallback();
+  },
+
+  registerCallback: function() {
+    setInterval(this.onTimerEvent.bind(this), this.frequency * 1000);
+  },
+
+  onTimerEvent: function() {
+    if (!this.currentlyExecuting) {
+      try {
+        this.currentlyExecuting =3D true;
+        this.callback();
+      } finally {
+        this.currentlyExecuting =3D false;
+      }
+    }
+  }
+}
+
+/*-----------------------------------------------------------------------=
+---*/
+
+function $() {
+  var elements =3D new Array();
+
+  for (var i =3D 0; i < arguments.length; i++) {
+    var element =3D arguments[i];
+    if (typeof element =3D=3D 'string')
+      element =3D document.getElementById(element);
+
+    if (arguments.length =3D=3D 1)
+      return element;
+
+    elements.push(element);
+  }
+
+  return elements;
+}
+Object.extend(String.prototype, {
+  stripTags: function() {
+    return this.replace(/<\/?[^>]+>/gi, '');
+  },
+
+  stripScripts: function() {
+    return this.replace(new RegExp(Prototype.ScriptFragment, 'img'), =
+'');
+  },
+
+  extractScripts: function() {
+    var matchAll =3D new RegExp(Prototype.ScriptFragment, 'img');
+    var matchOne =3D new RegExp(Prototype.ScriptFragment, 'im');
+    return (this.match(matchAll) || []).map(function(scriptTag) {
+      return (scriptTag.match(matchOne) || ['', ''])[1];
+    });
+  },
+
+  evalScripts: function() {
+    return this.extractScripts().map(eval);
+  },
+
+  escapeHTML: function() {
+    var div =3D document.createElement('div');
+    var text =3D document.createTextNode(this);
+    div.appendChild(text);
+    return div.innerHTML;
+  },
+
+  unescapeHTML: function() {
+    var div =3D document.createElement('div');
+    div.innerHTML =3D this.stripTags();
+    return div.childNodes[0] ? div.childNodes[0].nodeValue : '';
+  },
+
+  toQueryParams: function() {
+    var pairs =3D this.match(/^\??(.*)$/)[1].split('&');
+    return pairs.inject({}, function(params, pairString) {
+      var pair =3D pairString.split('=3D');
+      params[pair[0]] =3D pair[1];
+      return params;
+    });
+  },
+
+  toArray: function() {
+    return this.split('');
+  },
+
+  camelize: function() {
+    var oStringList =3D this.split('-');
+    if (oStringList.length =3D=3D 1) return oStringList[0];
+
+    var camelizedString =3D this.indexOf('-') =3D=3D 0
+      ? oStringList[0].charAt(0).toUpperCase() + =
+oStringList[0].substring(1)
+      : oStringList[0];
+
+    for (var i =3D 1, len =3D oStringList.length; i < len; i++) {
+      var s =3D oStringList[i];
+      camelizedString +=3D s.charAt(0).toUpperCase() + s.substring(1);
+    }
+
+    return camelizedString;
+  },
+
+  inspect: function() {
+    return "'" + this.replace('\\', '\\\\').replace("'", '\\\'') + "'";
+  }
+});
+
+String.prototype.parseQuery =3D String.prototype.toQueryParams;
+
+var $break    =3D new Object();
+var $continue =3D new Object();
+
+var Enumerable =3D {
+  each: function(iterator) {
+    var index =3D 0;
+    try {
+      this._each(function(value) {
+        try {
+          iterator(value, index++);
+        } catch (e) {
+          if (e !=3D $continue) throw e;
+        }
+      });
+    } catch (e) {
+      if (e !=3D $break) throw e;
+    }
+  },
+
+  all: function(iterator) {
+    var result =3D true;
+    this.each(function(value, index) {
+      result =3D result && !!(iterator || Prototype.K)(value, index);
+      if (!result) throw $break;
+    });
+    return result;
+  },
+
+  any: function(iterator) {
+    var result =3D true;
+    this.each(function(value, index) {
+      if (result =3D !!(iterator || Prototype.K)(value, index))
+        throw $break;
+    });
+    return result;
+  },
+
+  collect: function(iterator) {
+    var results =3D [];
+    this.each(function(value, index) {
+      results.push(iterator(value, index));
+    });
+    return results;
+  },
+
+  detect: function (iterator) {
+    var result;
+    this.each(function(value, index) {
+      if (iterator(value, index)) {
+        result =3D value;
+        throw $break;
+      }
+    });
+    return result;
+  },
+
+  findAll: function(iterator) {
+    var results =3D [];
+    this.each(function(value, index) {
+      if (iterator(value, index))
+        results.push(value);
+    });
+    return results;
+  },
+
+  grep: function(pattern, iterator) {
+    var results =3D [];
+    this.each(function(value, index) {
+      var stringValue =3D value.toString();
+      if (stringValue.match(pattern))
+        results.push((iterator || Prototype.K)(value, index));
+    })
+    return results;
+  },
+
+  include: function(object) {
+    var found =3D false;
+    this.each(function(value) {
+      if (value =3D=3D object) {
+        found =3D true;
+        throw $break;
+      }
+    });
+    return found;
+  },
+
+  inject: function(memo, iterator) {
+    this.each(function(value, index) {
+      memo =3D iterator(memo, value, index);
+    });
+    return memo;
+  },
+
+  invoke: function(method) {
+    var args =3D $A(arguments).slice(1);
+    return this.collect(function(value) {
+      return value[method].apply(value, args);
+    });
+  },
+
+  max: function(iterator) {
+    var result;
+    this.each(function(value, index) {
+      value =3D (iterator || Prototype.K)(value, index);
+      if (value >=3D (result || value))
+        result =3D value;
+    });
+    return result;
+  },
+
+  min: function(iterator) {
+    var result;
+    this.each(function(value, index) {
+      value =3D (iterator || Prototype.K)(value, index);
+      if (value <=3D (result || value))
+        result =3D value;
+    });
+    return result;
+  },
+
+  partition: function(iterator) {
+    var trues =3D [], falses =3D [];
+    this.each(function(value, index) {
+      ((iterator || Prototype.K)(value, index) ?
+        trues : falses).push(value);
+    });
+    return [trues, falses];
+  },
+
+  pluck: function(property) {
+    var results =3D [];
+    this.each(function(value, index) {
+      results.push(value[property]);
+    });
+    return results;
+  },
+
+  reject: function(iterator) {
+    var results =3D [];
+    this.each(function(value, index) {
+      if (!iterator(value, index))
+        results.push(value);
+    });
+    return results;
+  },
+
+  sortBy: function(iterator) {
+    return this.collect(function(value, index) {
+      return {value: value, criteria: iterator(value, index)};
+    }).sort(function(left, right) {
+      var a =3D left.criteria, b =3D right.criteria;
+      return a < b ? -1 : a > b ? 1 : 0;
+    }).pluck('value');
+  },
+
+  toArray: function() {
+    return this.collect(Prototype.K);
+  },
+
+  zip: function() {
+    var iterator =3D Prototype.K, args =3D $A(arguments);
+    if (typeof args.last() =3D=3D 'function')
+      iterator =3D args.pop();
+
+    var collections =3D [this].concat(args).map($A);
+    return this.map(function(value, index) {
+      iterator(value =3D collections.pluck(index));
+      return value;
+    });
+  },
+
+  inspect: function() {
+    return '#<Enumerable:' + this.toArray().inspect() + '>';
+  }
+}
+
+Object.extend(Enumerable, {
+  map:     Enumerable.collect,
+  find:    Enumerable.detect,
+  select:  Enumerable.findAll,
+  member:  Enumerable.include,
+  entries: Enumerable.toArray
+});
+var $A =3D Array.from =3D function(iterable) {
+  if (!iterable) return [];
+  if (iterable.toArray) {
+    return iterable.toArray();
+  } else {
+    var results =3D [];
+    for (var i =3D 0; i < iterable.length; i++)
+      results.push(iterable[i]);
+    return results;
+  }
+}
+
+Object.extend(Array.prototype, Enumerable);
+
+Array.prototype._reverse =3D Array.prototype.reverse;
+
+Object.extend(Array.prototype, {
+  _each: function(iterator) {
+    for (var i =3D 0; i < this.length; i++)
+      iterator(this[i]);
+  },
+
+  clear: function() {
+    this.length =3D 0;
+    return this;
+  },
+
+  first: function() {
+    return this[0];
+  },
+
+  last: function() {
+    return this[this.length - 1];
+  },
+
+  compact: function() {
+    return this.select(function(value) {
+      return value !=3D undefined || value !=3D null;
+    });
+  },
+
+  flatten: function() {
+    return this.inject([], function(array, value) {
+      return array.concat(value.constructor =3D=3D Array ?
+        value.flatten() : [value]);
+    });
+  },
+
+  without: function() {
+    var values =3D $A(arguments);
+    return this.select(function(value) {
+      return !values.include(value);
+    });
+  },
+
+  indexOf: function(object) {
+    for (var i =3D 0; i < this.length; i++)
+      if (this[i] =3D=3D object) return i;
+    return -1;
+  },
+
+  reverse: function(inline) {
+    return (inline !=3D=3D false ? this : this.toArray())._reverse();
+  },
+
+  shift: function() {
+    var result =3D this[0];
+    for (var i =3D 0; i < this.length - 1; i++)
+      this[i] =3D this[i + 1];
+    this.length--;
+    return result;
+  },
+
+  inspect: function() {
+    return '[' + this.map(Object.inspect).join(', ') + ']';
+  }
+});
+var Hash =3D {
+  _each: function(iterator) {
+    for (key in this) {
+      var value =3D this[key];
+      if (typeof value =3D=3D 'function') continue;
+
+      var pair =3D [key, value];
+      pair.key =3D key;
+      pair.value =3D value;
+      iterator(pair);
+    }
+  },
+
+  keys: function() {
+    return this.pluck('key');
+  },
+
+  values: function() {
+    return this.pluck('value');
+  },
+
+  merge: function(hash) {
+    return $H(hash).inject($H(this), function(mergedHash, pair) {
+      mergedHash[pair.key] =3D pair.value;
+      return mergedHash;
+    });
+  },
+
+  toQueryString: function() {
+    return this.map(function(pair) {
+      return pair.map(encodeURIComponent).join('=3D');
+    }).join('&');
+  },
+
+  inspect: function() {
+    return '#<Hash:{' + this.map(function(pair) {
+      return pair.map(Object.inspect).join(': ');
+    }).join(', ') + '}>';
+  }
+}
+
+function $H(object) {
+  var hash =3D Object.extend({}, object || {});
+  Object.extend(hash, Enumerable);
+  Object.extend(hash, Hash);
+  return hash;
+}
+ObjectRange =3D Class.create();
+Object.extend(ObjectRange.prototype, Enumerable);
+Object.extend(ObjectRange.prototype, {
+  initialize: function(start, end, exclusive) {
+    this.start =3D start;
+    this.end =3D end;
+    this.exclusive =3D exclusive;
+  },
+
+  _each: function(iterator) {
+    var value =3D this.start;
+    do {
+      iterator(value);
+      value =3D value.succ();
+    } while (this.include(value));
+  },
+
+  include: function(value) {
+    if (value < this.start)
+      return false;
+    if (this.exclusive)
+      return value < this.end;
+    return value <=3D this.end;
+  }
+});
+
+var $R =3D function(start, end, exclusive) {
+  return new ObjectRange(start, end, exclusive);
+}
+
+var Ajax =3D {
+  getTransport: function() {
+    return Try.these(
+      function() {return new ActiveXObject('Msxml2.XMLHTTP')},
+      function() {return new ActiveXObject('Microsoft.XMLHTTP')},
+      function() {return new XMLHttpRequest()}
+    ) || false;
+  },
+
+  activeRequestCount: 0
+}
+
+Ajax.Responders =3D {
+  responders: [],
+
+  _each: function(iterator) {
+    this.responders._each(iterator);
+  },
+
+  register: function(responderToAdd) {
+    if (!this.include(responderToAdd))
+      this.responders.push(responderToAdd);
+  },
+
+  unregister: function(responderToRemove) {
+    this.responders =3D this.responders.without(responderToRemove);
+  },
+
+  dispatch: function(callback, request, transport, json) {
+    this.each(function(responder) {
+      if (responder[callback] && typeof responder[callback] =3D=3D =
+'function') {
+        try {
+          responder[callback].apply(responder, [request, transport, =
+json]);
+        } catch (e) {}
+      }
+    });
+  }
+};
+
+Object.extend(Ajax.Responders, Enumerable);
+
+Ajax.Responders.register({
+  onCreate: function() {
+    Ajax.activeRequestCount++;
+  },
+
+  onComplete: function() {
+    Ajax.activeRequestCount--;
+  }
+});
+
+Ajax.Base =3D function() {};
+Ajax.Base.prototype =3D {
+  setOptions: function(options) {
+    this.options =3D {
+      method:       'post',
+      asynchronous: true,
+      parameters:   ''
+    }
+    Object.extend(this.options, options || {});
+  },
+
+  responseIsSuccess: function() {
+    return this.transport.status =3D=3D undefined
+        || this.transport.status =3D=3D 0
+        || (this.transport.status >=3D 200 && this.transport.status < =
+300);
+  },
+
+  responseIsFailure: function() {
+    return !this.responseIsSuccess();
+  }
+}
+
+Ajax.Request =3D Class.create();
+Ajax.Request.Events =3D
+  ['Uninitialized', 'Loading', 'Loaded', 'Interactive', 'Complete'];
+
+Ajax.Request.prototype =3D Object.extend(new Ajax.Base(), {
+  initialize: function(url, options) {
+    this.transport =3D Ajax.getTransport();
+    this.setOptions(options);
+    this.request(url);
+  },
+
+  request: function(url) {
+    var parameters =3D this.options.parameters || '';
+    if (parameters.length > 0) parameters +=3D '&_=3D';
+
+    try {
+      this.url =3D url;
+      if (this.options.method =3D=3D 'get' && parameters.length > 0)
+        this.url +=3D (this.url.match(/\?/) ? '&' : '?') + parameters;
+
+      Ajax.Responders.dispatch('onCreate', this, this.transport);
+
+      this.transport.open(this.options.method, this.url,
+        this.options.asynchronous);
+
+      if (this.options.asynchronous) {
+        this.transport.onreadystatechange =3D =
+this.onStateChange.bind(this);
+        setTimeout((function() =
+{this.respondToReadyState(1)}).bind(this), 10);
+      }
+
+      this.setRequestHeaders();
+
+      var body =3D this.options.postBody ? this.options.postBody : =
+parameters;
+      this.transport.send(this.options.method =3D=3D 'post' ? body : =
+null);
+
+    } catch (e) {
+      this.dispatchException(e);
+    }
+  },
+
+  setRequestHeaders: function() {
+    var requestHeaders =3D
+      ['X-Requested-With', 'XMLHttpRequest',
+       'X-Prototype-Version', Prototype.Version];
+
+    if (this.options.method =3D=3D 'post') {
+      requestHeaders.push('Content-type',
+        'application/x-www-form-urlencoded');
+
+      /* Force "Connection: close" for Mozilla browsers to work around
+       * a bug where XMLHttpReqeuest sends an incorrect Content-length
+       * header. See Mozilla Bugzilla #246651.
+       */
+      if (this.transport.overrideMimeType)
+        requestHeaders.push('Connection', 'close');
+    }
+
+    if (this.options.requestHeaders)
+      requestHeaders.push.apply(requestHeaders, =
+this.options.requestHeaders);
+
+    for (var i =3D 0; i < requestHeaders.length; i +=3D 2)
+      this.transport.setRequestHeader(requestHeaders[i], =
+requestHeaders[i+1]);
+  },
+
+  onStateChange: function() {
+    var readyState =3D this.transport.readyState;
+    if (readyState !=3D 1)
+      this.respondToReadyState(this.transport.readyState);
+  },
+
+  header: function(name) {
+    try {
+      return this.transport.getResponseHeader(name);
+    } catch (e) {}
+  },
+
+  evalJSON: function() {
+    try {
+      return eval(this.header('X-JSON'));
+    } catch (e) {}
+  },
+
+  evalResponse: function() {
+    try {
+      return eval(this.transport.responseText);
+    } catch (e) {
+      this.dispatchException(e);
+    }
+  },
+
+  respondToReadyState: function(readyState) {
+    var event =3D Ajax.Request.Events[readyState];
+    var transport =3D this.transport, json =3D this.evalJSON();
+
+    if (event =3D=3D 'Complete') {
+      try {
+        (this.options['on' + this.transport.status]
+         || this.options['on' + (this.responseIsSuccess() ? 'Success' : =
+'Failure')]
+         || Prototype.emptyFunction)(transport, json);
+      } catch (e) {
+        this.dispatchException(e);
+      }
+
+      if ((this.header('Content-type') || =
+'').match(/^text\/javascript/i))
+        this.evalResponse();
+    }
+
+    try {
+      (this.options['on' + event] || Prototype.emptyFunction)(transport, =
+json);
+      Ajax.Responders.dispatch('on' + event, this, transport, json);
+    } catch (e) {
+      this.dispatchException(e);
+    }
+
+    /* Avoid memory leak in MSIE: clean up the oncomplete event handler =
+*/
+    if (event =3D=3D 'Complete')
+      this.transport.onreadystatechange =3D Prototype.emptyFunction;
+  },
+
+  dispatchException: function(exception) {
+    (this.options.onException || Prototype.emptyFunction)(this, =
+exception);
+    Ajax.Responders.dispatch('onException', this, exception);
+  }
+});
+
+Ajax.Updater =3D Class.create();
+
+Object.extend(Object.extend(Ajax.Updater.prototype, =
+Ajax.Request.prototype), {
+  initialize: function(container, url, options) {
+    this.containers =3D {
+      success: container.success ? $(container.success) : $(container),
+      failure: container.failure ? $(container.failure) :
+        (container.success ? null : $(container))
+    }
+
+    this.transport =3D Ajax.getTransport();
+    this.setOptions(options);
+
+    var onComplete =3D this.options.onComplete || =
+Prototype.emptyFunction;
+    this.options.onComplete =3D (function(transport, object) {
+      this.updateContent();
+      onComplete(transport, object);
+    }).bind(this);
+
+    this.request(url);
+  },
+
+  updateContent: function() {
+    var receiver =3D this.responseIsSuccess() ?
+      this.containers.success : this.containers.failure;
+    var response =3D this.transport.responseText;
+
+    if (!this.options.evalScripts)
+      response =3D response.stripScripts();
+
+    if (receiver) {
+      if (this.options.insertion) {
+        new this.options.insertion(receiver, response);
+      } else {
+        Element.update(receiver, response);
+      }
+    }
+
+    if (this.responseIsSuccess()) {
+      if (this.onComplete)
+        setTimeout(this.onComplete.bind(this), 10);
+    }
+  }
+});
+
+Ajax.PeriodicalUpdater =3D Class.create();
+Ajax.PeriodicalUpdater.prototype =3D Object.extend(new Ajax.Base(), {
+  initialize: function(container, url, options) {
+    this.setOptions(options);
+    this.onComplete =3D this.options.onComplete;
+
+    this.frequency =3D (this.options.frequency || 2);
+    this.decay =3D (this.options.decay || 1);
+
+    this.updater =3D {};
+    this.container =3D container;
+    this.url =3D url;
+
+    this.start();
+  },
+
+  start: function() {
+    this.options.onComplete =3D this.updateComplete.bind(this);
+    this.onTimerEvent();
+  },
+
+  stop: function() {
+    this.updater.onComplete =3D undefined;
+    clearTimeout(this.timer);
+    (this.onComplete || Prototype.emptyFunction).apply(this, arguments);
+  },
+
+  updateComplete: function(request) {
+    if (this.options.decay) {
+      this.decay =3D (request.responseText =3D=3D this.lastText ?
+        this.decay * this.options.decay : 1);
+
+      this.lastText =3D request.responseText;
+    }
+    this.timer =3D setTimeout(this.onTimerEvent.bind(this),
+      this.decay * this.frequency * 1000);
+  },
+
+  onTimerEvent: function() {
+    this.updater =3D new Ajax.Updater(this.container, this.url, =
+this.options);
+  }
+});
+document.getElementsByClassName =3D function(className, parentElement) {
+  var children =3D ($(parentElement) || =
+document.body).getElementsByTagName('*');
+  return $A(children).inject([], function(elements, child) {
+    if (child.className.match(new RegExp("(^|\\s)" + className + =
+"(\\s|$)")))
+      elements.push(child);
+    return elements;
+  });
+}
+
+/*-----------------------------------------------------------------------=
+---*/
+
+if (!window.Element) {
+  var Element =3D new Object();
+}
+
+Object.extend(Element, {
+  visible: function(element) {
+    return $(element).style.display !=3D 'none';
+  },
+
+  toggle: function() {
+    for (var i =3D 0; i < arguments.length; i++) {
+      var element =3D $(arguments[i]);
+      Element[Element.visible(element) ? 'hide' : 'show'](element);
+    }
+  },
+
+  hide: function() {
+    for (var i =3D 0; i < arguments.length; i++) {
+      var element =3D $(arguments[i]);
+      element.style.display =3D 'none';
+    }
+  },
+
+  show: function() {
+    for (var i =3D 0; i < arguments.length; i++) {
+      var element =3D $(arguments[i]);
+      element.style.display =3D '';
+    }
+  },
+
+  remove: function(element) {
+    element =3D $(element);
+    element.parentNode.removeChild(element);
+  },
+
+  update: function(element, html) {
+    $(element).innerHTML =3D html.stripScripts();
+    setTimeout(function() {html.evalScripts()}, 10);
+  },
+
+  getHeight: function(element) {
+    element =3D $(element);
+    return element.offsetHeight;
+  },
+
+  classNames: function(element) {
+    return new Element.ClassNames(element);
+  },
+
+  hasClassName: function(element, className) {
+    if (!(element =3D $(element))) return;
+    return Element.classNames(element).include(className);
+  },
+
+  addClassName: function(element, className) {
+    if (!(element =3D $(element))) return;
+    return Element.classNames(element).add(className);
+  },
+
+  removeClassName: function(element, className) {
+    if (!(element =3D $(element))) return;
+    return Element.classNames(element).remove(className);
+  },
+
+  // removes whitespace-only text node children
+  cleanWhitespace: function(element) {
+    element =3D $(element);
+    for (var i =3D 0; i < element.childNodes.length; i++) {
+      var node =3D element.childNodes[i];
+      if (node.nodeType =3D=3D 3 && !/\S/.test(node.nodeValue))
+        Element.remove(node);
+    }
+  },
+
+  empty: function(element) {
+    return $(element).innerHTML.match(/^\s*$/);
+  },
+
+  scrollTo: function(element) {
+    element =3D $(element);
+    var x =3D element.x ? element.x : element.offsetLeft,
+        y =3D element.y ? element.y : element.offsetTop;
+    window.scrollTo(x, y);
+  },
+
+  getStyle: function(element, style) {
+    element =3D $(element);
+    var value =3D element.style[style.camelize()];
+    if (!value) {
+      if (document.defaultView && document.defaultView.getComputedStyle) =
+{
+        var css =3D document.defaultView.getComputedStyle(element, =
+null);
+        value =3D css ? css.getPropertyValue(style) : null;
+      } else if (element.currentStyle) {
+        value =3D element.currentStyle[style.camelize()];
+      }
+    }
+
+    if (window.opera && ['left', 'top', 'right', =
+'bottom'].include(style))
+      if (Element.getStyle(element, 'position') =3D=3D 'static') value =
+=3D 'auto';
+
+    return value =3D=3D 'auto' ? null : value;
+  },
+
+  setStyle: function(element, style) {
+    element =3D $(element);
+    for (name in style)
+      element.style[name.camelize()] =3D style[name];
+  },
+
+  getDimensions: function(element) {
+    element =3D $(element);
+    if (Element.getStyle(element, 'display') !=3D 'none')
+      return {width: element.offsetWidth, height: element.offsetHeight};
+
+    // All *Width and *Height properties give 0 on elements with display =
+none,
+    // so enable the element temporarily
+    var els =3D element.style;
+    var originalVisibility =3D els.visibility;
+    var originalPosition =3D els.position;
+    els.visibility =3D 'hidden';
+    els.position =3D 'absolute';
+    els.display =3D '';
+    var originalWidth =3D element.clientWidth;
+    var originalHeight =3D element.clientHeight;
+    els.display =3D 'none';
+    els.position =3D originalPosition;
+    els.visibility =3D originalVisibility;
+    return {width: originalWidth, height: originalHeight};
+  },
+
+  makePositioned: function(element) {
+    element =3D $(element);
+    var pos =3D Element.getStyle(element, 'position');
+    if (pos =3D=3D 'static' || !pos) {
+      element._madePositioned =3D true;
+      element.style.position =3D 'relative';
+      // Opera returns the offset relative to the positioning context, =
+when an
+      // element is position relative but top and left have not been =
+defined
+      if (window.opera) {
+        element.style.top =3D 0;
+        element.style.left =3D 0;
+      }
+    }
+  },
+
+  undoPositioned: function(element) {
+    element =3D $(element);
+    if (element._madePositioned) {
+      element._madePositioned =3D undefined;
+      element.style.position =3D
+        element.style.top =3D
+        element.style.left =3D
+        element.style.bottom =3D
+        element.style.right =3D '';
+    }
+  },
+
+  makeClipping: function(element) {
+    element =3D $(element);
+    if (element._overflow) return;
+    element._overflow =3D element.style.overflow;
+    if ((Element.getStyle(element, 'overflow') || 'visible') !=3D =
+'hidden')
+      element.style.overflow =3D 'hidden';
+  },
+
+  undoClipping: function(element) {
+    element =3D $(element);
+    if (element._overflow) return;
+    element.style.overflow =3D element._overflow;
+    element._overflow =3D undefined;
+  }
+});
+
+var Toggle =3D new Object();
+Toggle.display =3D Element.toggle;
+
+/*-----------------------------------------------------------------------=
+---*/
+
+Abstract.Insertion =3D function(adjacency) {
+  this.adjacency =3D adjacency;
+}
+
+Abstract.Insertion.prototype =3D {
+  initialize: function(element, content) {
+    this.element =3D $(element);
+    this.content =3D content.stripScripts();
+
+    if (this.adjacency && this.element.insertAdjacentHTML) {
+      try {
+        this.element.insertAdjacentHTML(this.adjacency, this.content);
+      } catch (e) {
+        if (this.element.tagName.toLowerCase() =3D=3D 'tbody') {
+          this.insertContent(this.contentFromAnonymousTable());
+        } else {
+          throw e;
+        }
+      }
+    } else {
+      this.range =3D this.element.ownerDocument.createRange();
+      if (this.initializeRange) this.initializeRange();
+      =
+this.insertContent([this.range.createContextualFragment(this.content)]);
+    }
+
+    setTimeout(function() {content.evalScripts()}, 10);
+  },
+
+  contentFromAnonymousTable: function() {
+    var div =3D document.createElement('div');
+    div.innerHTML =3D '<table><tbody>' + this.content + =
+'</tbody></table>';
+    return $A(div.childNodes[0].childNodes[0].childNodes);
+  }
+}
+
+var Insertion =3D new Object();
+
+Insertion.Before =3D Class.create();
+Insertion.Before.prototype =3D Object.extend(new =
+Abstract.Insertion('beforeBegin'), {
+  initializeRange: function() {
+    this.range.setStartBefore(this.element);
+  },
+
+  insertContent: function(fragments) {
+    fragments.each((function(fragment) {
+      this.element.parentNode.insertBefore(fragment, this.element);
+    }).bind(this));
+  }
+});
+
+Insertion.Top =3D Class.create();
+Insertion.Top.prototype =3D Object.extend(new =
+Abstract.Insertion('afterBegin'), {
+  initializeRange: function() {
+    this.range.selectNodeContents(this.element);
+    this.range.collapse(true);
+  },
+
+  insertContent: function(fragments) {
+    fragments.reverse(false).each((function(fragment) {
+      this.element.insertBefore(fragment, this.element.firstChild);
+    }).bind(this));
+  }
+});
+
+Insertion.Bottom =3D Class.create();
+Insertion.Bottom.prototype =3D Object.extend(new =
+Abstract.Insertion('beforeEnd'), {
+  initializeRange: function() {
+    this.range.selectNodeContents(this.element);
+    this.range.collapse(this.element);
+  },
+
+  insertContent: function(fragments) {
+    fragments.each((function(fragment) {
+      this.element.appendChild(fragment);
+    }).bind(this));
+  }
+});
+
+Insertion.After =3D Class.create();
+Insertion.After.prototype =3D Object.extend(new =
+Abstract.Insertion('afterEnd'), {
+  initializeRange: function() {
+    this.range.setStartAfter(this.element);
+  },
+
+  insertContent: function(fragments) {
+    fragments.each((function(fragment) {
+      this.element.parentNode.insertBefore(fragment,
+        this.element.nextSibling);
+    }).bind(this));
+  }
+});
+
+/*-----------------------------------------------------------------------=
+---*/
+
+Element.ClassNames =3D Class.create();
+Element.ClassNames.prototype =3D {
+  initialize: function(element) {
+    this.element =3D $(element);
+  },
+
+  _each: function(iterator) {
+    this.element.className.split(/\s+/).select(function(name) {
+      return name.length > 0;
+    })._each(iterator);
+  },
+
+  set: function(className) {
+    this.element.className =3D className;
+  },
+
+  add: function(classNameToAdd) {
+    if (this.include(classNameToAdd)) return;
+    this.set(this.toArray().concat(classNameToAdd).join(' '));
+  },
+
+  remove: function(classNameToRemove) {
+    if (!this.include(classNameToRemove)) return;
+    this.set(this.select(function(className) {
+      return className !=3D classNameToRemove;
+    }).join(' '));
+  },
+
+  toString: function() {
+    return this.toArray().join(' ');
+  }
+}
+
+Object.extend(Element.ClassNames.prototype, Enumerable);
+var Field =3D {
+  clear: function() {
+    for (var i =3D 0; i < arguments.length; i++)
+      $(arguments[i]).value =3D '';
+  },
+
+  focus: function(element) {
+    $(element).focus();
+  },
+
+  present: function() {
+    for (var i =3D 0; i < arguments.length; i++)
+      if ($(arguments[i]).value =3D=3D '') return false;
+    return true;
+  },
+
+  select: function(element) {
+    $(element).select();
+  },
+
+  activate: function(element) {
+    element =3D $(element);
+    element.focus();
+    if (element.select)
+      element.select();
+  }
+}
+
+/*-----------------------------------------------------------------------=
+---*/
+
+var Form =3D {
+  serialize: function(form) {
+    var elements =3D Form.getElements($(form));
+    var queryComponents =3D new Array();
+
+    for (var i =3D 0; i < elements.length; i++) {
+      var queryComponent =3D Form.Element.serialize(elements[i]);
+      if (queryComponent)
+        queryComponents.push(queryComponent);
+    }
+
+    return queryComponents.join('&');
+  },
+
+  getElements: function(form) {
+    form =3D $(form);
+    var elements =3D new Array();
+
+    for (tagName in Form.Element.Serializers) {
+      var tagElements =3D form.getElementsByTagName(tagName);
+      for (var j =3D 0; j < tagElements.length; j++)
+        elements.push(tagElements[j]);
+    }
+    return elements;
+  },
+
+  getInputs: function(form, typeName, name) {
+    form =3D $(form);
+    var inputs =3D form.getElementsByTagName('input');
+
+    if (!typeName && !name)
+      return inputs;
+
+    var matchingInputs =3D new Array();
+    for (var i =3D 0; i < inputs.length; i++) {
+      var input =3D inputs[i];
+      if ((typeName && input.type !=3D typeName) ||
+          (name && input.name !=3D name))
+        continue;
+      matchingInputs.push(input);
+    }
+
+    return matchingInputs;
+  },
+
+  disable: function(form) {
+    var elements =3D Form.getElements(form);
+    for (var i =3D 0; i < elements.length; i++) {
+      var element =3D elements[i];
+      element.blur();
+      element.disabled =3D 'true';
+    }
+  },
+
+  enable: function(form) {
+    var elements =3D Form.getElements(form);
+    for (var i =3D 0; i < elements.length; i++) {
+      var element =3D elements[i];
+      element.disabled =3D '';
+    }
+  },
+
+  findFirstElement: function(form) {
+    return Form.getElements(form).find(function(element) {
+      return element.type !=3D 'hidden' && !element.disabled &&
+        ['input', 'select', =
+'textarea'].include(element.tagName.toLowerCase());
+    });
+  },
+
+  focusFirstElement: function(form) {
+    Field.activate(Form.findFirstElement(form));
+  },
+
+  reset: function(form) {
+    $(form).reset();
+  }
+}
+
+Form.Element =3D {
+  serialize: function(element) {
+    element =3D $(element);
+    var method =3D element.tagName.toLowerCase();
+    var parameter =3D Form.Element.Serializers[method](element);
+
+    if (parameter) {
+      var key =3D encodeURIComponent(parameter[0]);
+      if (key.length =3D=3D 0) return;
+
+      if (parameter[1].constructor !=3D Array)
+        parameter[1] =3D [parameter[1]];
+
+      return parameter[1].map(function(value) {
+        return key + '=3D' + encodeURIComponent(value);
+      }).join('&');
+    }
+  },
+
+  getValue: function(element) {
+    element =3D $(element);
+    var method =3D element.tagName.toLowerCase();
+    var parameter =3D Form.Element.Serializers[method](element);
+
+    if (parameter)
+      return parameter[1];
+  }
+}
+
+Form.Element.Serializers =3D {
+  input: function(element) {
+    switch (element.type.toLowerCase()) {
+      case 'submit':
+      case 'hidden':
+      case 'password':
+      case 'text':
+        return Form.Element.Serializers.textarea(element);
+      case 'checkbox':
+      case 'radio':
+        return Form.Element.Serializers.inputSelector(element);
+    }
+    return false;
+  },
+
+  inputSelector: function(element) {
+    if (element.checked)
+      return [element.name, element.value];
+  },
+
+  textarea: function(element) {
+    return [element.name, element.value];
+  },
+
+  select: function(element) {
+    return Form.Element.Serializers[element.type =3D=3D 'select-one' ?
+      'selectOne' : 'selectMany'](element);
+  },
+
+  selectOne: function(element) {
+    var value =3D '', opt, index =3D element.selectedIndex;
+    if (index >=3D 0) {
+      opt =3D element.options[index];
+      value =3D opt.value;
+      if (!value && !('value' in opt))
+        value =3D opt.text;
+    }
+    return [element.name, value];
+  },
+
+  selectMany: function(element) {
+    var value =3D new Array();
+    for (var i =3D 0; i < element.length; i++) {
+      var opt =3D element.options[i];
+      if (opt.selected) {
+        var optValue =3D opt.value;
+        if (!optValue && !('value' in opt))
+          optValue =3D opt.text;
+        value.push(optValue);
+      }
+    }
+    return [element.name, value];
+  }
+}
+
+/*-----------------------------------------------------------------------=
+---*/
+
+var $F =3D Form.Element.getValue;
+
+/*-----------------------------------------------------------------------=
+---*/
+
+Abstract.TimedObserver =3D function() {}
+Abstract.TimedObserver.prototype =3D {
+  initialize: function(element, frequency, callback) {
+    this.frequency =3D frequency;
+    this.element   =3D $(element);
+    this.callback  =3D callback;
+
+    this.lastValue =3D this.getValue();
+    this.registerCallback();
+  },
+
+  registerCallback: function() {
+    setInterval(this.onTimerEvent.bind(this), this.frequency * 1000);
+  },
+
+  onTimerEvent: function() {
+    var value =3D this.getValue();
+    if (this.lastValue !=3D value) {
+      this.callback(this.element, value);
+      this.lastValue =3D value;
+    }
+  }
+}
+
+Form.Element.Observer =3D Class.create();
+Form.Element.Observer.prototype =3D Object.extend(new =
+Abstract.TimedObserver(), {
+  getValue: function() {
+    return Form.Element.getValue(this.element);
+  }
+});
+
+Form.Observer =3D Class.create();
+Form.Observer.prototype =3D Object.extend(new Abstract.TimedObserver(), =
+{
+  getValue: function() {
+    return Form.serialize(this.element);
+  }
+});
+
+/*-----------------------------------------------------------------------=
+---*/
+
+Abstract.EventObserver =3D function() {}
+Abstract.EventObserver.prototype =3D {
+  initialize: function(element, callback) {
+    this.element  =3D $(element);
+    this.callback =3D callback;
+
+    this.lastValue =3D this.getValue();
+    if (this.element.tagName.toLowerCase() =3D=3D 'form')
+      this.registerFormCallbacks();
+    else
+      this.registerCallback(this.element);
+  },
+
+  onElementEvent: function() {
+    var value =3D this.getValue();
+    if (this.lastValue !=3D value) {
+      this.callback(this.element, value);
+      this.lastValue =3D value;
+    }
+  },
+
+  registerFormCallbacks: function() {
+    var elements =3D Form.getElements(this.element);
+    for (var i =3D 0; i < elements.length; i++)
+      this.registerCallback(elements[i]);
+  },
+
+  registerCallback: function(element) {
+    if (element.type) {
+      switch (element.type.toLowerCase()) {
+        case 'checkbox':
+        case 'radio':
+          Event.observe(element, 'click', =
+this.onElementEvent.bind(this));
+          break;
+        case 'password':
+        case 'text':
+        case 'textarea':
+        case 'select-one':
+        case 'select-multiple':
+          Event.observe(element, 'change', =
+this.onElementEvent.bind(this));
+          break;
+      }
+    }
+  }
+}
+
+Form.Element.EventObserver =3D Class.create();
+Form.Element.EventObserver.prototype =3D Object.extend(new =
+Abstract.EventObserver(), {
+  getValue: function() {
+    return Form.Element.getValue(this.element);
+  }
+});
+
+Form.EventObserver =3D Class.create();
+Form.EventObserver.prototype =3D Object.extend(new =
+Abstract.EventObserver(), {
+  getValue: function() {
+    return Form.serialize(this.element);
+  }
+});
+if (!window.Event) {
+  var Event =3D new Object();
+}
+
+Object.extend(Event, {
+  KEY_BACKSPACE: 8,
+  KEY_TAB:       9,
+  KEY_RETURN:   13,
+  KEY_ESC:      27,
+  KEY_LEFT:     37,
+  KEY_UP:       38,
+  KEY_RIGHT:    39,
+  KEY_DOWN:     40,
+  KEY_DELETE:   46,
+
+  element: function(event) {
+    return event.target || event.srcElement;
+  },
+
+  isLeftClick: function(event) {
+    return (((event.which) && (event.which =3D=3D 1)) ||
+            ((event.button) && (event.button =3D=3D 1)));
+  },
+
+  pointerX: function(event) {
+    return event.pageX || (event.clientX +
+      (document.documentElement.scrollLeft || =
+document.body.scrollLeft));
+  },
+
+  pointerY: function(event) {
+    return event.pageY || (event.clientY +
+      (document.documentElement.scrollTop || document.body.scrollTop));
+  },
+
+  stop: function(event) {
+    if (event.preventDefault) {
+      event.preventDefault();
+      event.stopPropagation();
+    } else {
+      event.returnValue =3D false;
+      event.cancelBubble =3D true;
+    }
+  },
+
+  // find the first node with the given tagName, starting from the
+  // node the event was triggered on; traverses the DOM upwards
+  findElement: function(event, tagName) {
+    var element =3D Event.element(event);
+    while (element.parentNode && (!element.tagName ||
+        (element.tagName.toUpperCase() !=3D tagName.toUpperCase())))
+      element =3D element.parentNode;
+    return element;
+  },
+
+  observers: false,
+
+  _observeAndCache: function(element, name, observer, useCapture) {
+    if (!this.observers) this.observers =3D [];
+    if (element.addEventListener) {
+      this.observers.push([element, name, observer, useCapture]);
+      element.addEventListener(name, observer, useCapture);
+    } else if (element.attachEvent) {
+      this.observers.push([element, name, observer, useCapture]);
+      element.attachEvent('on' + name, observer);
+    }
+  },
+
+  unloadCache: function() {
+    if (!Event.observers) return;
+    for (var i =3D 0; i < Event.observers.length; i++) {
+      Event.stopObserving.apply(this, Event.observers[i]);
+      Event.observers[i][0] =3D null;
+    }
+    Event.observers =3D false;
+  },
+
+  observe: function(element, name, observer, useCapture) {
+    var element =3D $(element);
+    useCapture =3D useCapture || false;
+
+    if (name =3D=3D 'keypress' &&
+        (navigator.appVersion.match(/Konqueror|Safari|KHTML/)
+        || element.attachEvent))
+      name =3D 'keydown';
+
+    this._observeAndCache(element, name, observer, useCapture);
+  },
+
+  stopObserving: function(element, name, observer, useCapture) {
+    var element =3D $(element);
+    useCapture =3D useCapture || false;
+
+    if (name =3D=3D 'keypress' &&
+        (navigator.appVersion.match(/Konqueror|Safari|KHTML/)
+        || element.detachEvent))
+      name =3D 'keydown';
+
+    if (element.removeEventListener) {
+      element.removeEventListener(name, observer, useCapture);
+    } else if (element.detachEvent) {
+      element.detachEvent('on' + name, observer);
+    }
+  }
+});
+
+/* prevent memory leaks in IE */
+Event.observe(window, 'unload', Event.unloadCache, false);
+var Position =3D {
+  // set to true if needed, warning: firefox performance problems
+  // NOT neeeded for page scrolling, only if draggable contained in
+  // scrollable elements
+  includeScrollOffsets: false,
+
+  // must be called before calling withinIncludingScrolloffset, every =
+time the
+  // page is scrolled
+  prepare: function() {
+    this.deltaX =3D  window.pageXOffset
+                || document.documentElement.scrollLeft
+                || document.body.scrollLeft
+                || 0;
+    this.deltaY =3D  window.pageYOffset
+                || document.documentElement.scrollTop
+                || document.body.scrollTop
+                || 0;
+  },
+
+  realOffset: function(element) {
+    var valueT =3D 0, valueL =3D 0;
+    do {
+      valueT +=3D element.scrollTop  || 0;
+      valueL +=3D element.scrollLeft || 0;
+      element =3D element.parentNode;
+    } while (element);
+    return [valueL, valueT];
+  },
+
+  cumulativeOffset: function(element) {
+    var valueT =3D 0, valueL =3D 0;
+    do {
+      valueT +=3D element.offsetTop  || 0;
+      valueL +=3D element.offsetLeft || 0;
+      element =3D element.offsetParent;
+    } while (element);
+    return [valueL, valueT];
+  },
+
+  positionedOffset: function(element) {
+    var valueT =3D 0, valueL =3D 0;
+    do {
+      valueT +=3D element.offsetTop  || 0;
+      valueL +=3D element.offsetLeft || 0;
+      element =3D element.offsetParent;
+      if (element) {
+        p =3D Element.getStyle(element, 'position');
+        if (p =3D=3D 'relative' || p =3D=3D 'absolute') break;
+      }
+    } while (element);
+    return [valueL, valueT];
+  },
+
+  offsetParent: function(element) {
+    if (element.offsetParent) return element.offsetParent;
+    if (element =3D=3D document.body) return element;
+
+    while ((element =3D element.parentNode) && element !=3D =
+document.body)
+      if (Element.getStyle(element, 'position') !=3D 'static')
+        return element;
+
+    return document.body;
+  },
+
+  // caches x/y coordinate pair to use with overlap
+  within: function(element, x, y) {
+    if (this.includeScrollOffsets)
+      return this.withinIncludingScrolloffsets(element, x, y);
+    this.xcomp =3D x;
+    this.ycomp =3D y;
+    this.offset =3D this.cumulativeOffset(element);
+
+    return (y >=3D this.offset[1] &&
+            y <  this.offset[1] + element.offsetHeight &&
+            x >=3D this.offset[0] &&
+            x <  this.offset[0] + element.offsetWidth);
+  },
+
+  withinIncludingScrolloffsets: function(element, x, y) {
+    var offsetcache =3D this.realOffset(element);
+
+    this.xcomp =3D x + offsetcache[0] - this.deltaX;
+    this.ycomp =3D y + offsetcache[1] - this.deltaY;
+    this.offset =3D this.cumulativeOffset(element);
+
+    return (this.ycomp >=3D this.offset[1] &&
+            this.ycomp <  this.offset[1] + element.offsetHeight &&
+            this.xcomp >=3D this.offset[0] &&
+            this.xcomp <  this.offset[0] + element.offsetWidth);
+  },
+
+  // within must be called directly before
+  overlap: function(mode, element) {
+    if (!mode) return 0;
+    if (mode =3D=3D 'vertical')
+      return ((this.offset[1] + element.offsetHeight) - this.ycomp) /
+        element.offsetHeight;
+    if (mode =3D=3D 'horizontal')
+      return ((this.offset[0] + element.offsetWidth) - this.xcomp) /
+        element.offsetWidth;
+  },
+
+  clone: function(source, target) {
+    source =3D $(source);
+    target =3D $(target);
+    target.style.position =3D 'absolute';
+    var offsets =3D this.cumulativeOffset(source);
+    target.style.top    =3D offsets[1] + 'px';
+    target.style.left   =3D offsets[0] + 'px';
+    target.style.width  =3D source.offsetWidth + 'px';
+    target.style.height =3D source.offsetHeight + 'px';
+  },
+
+  page: function(forElement) {
+    var valueT =3D 0, valueL =3D 0;
+
+    var element =3D forElement;
+    do {
+      valueT +=3D element.offsetTop  || 0;
+      valueL +=3D element.offsetLeft || 0;
+
+      // Safari fix
+      if (element.offsetParent=3D=3Ddocument.body)
+        if (Element.getStyle(element,'position')=3D=3D'absolute') break;
+
+    } while (element =3D element.offsetParent);
+
+    element =3D forElement;
+    do {
+      valueT -=3D element.scrollTop  || 0;
+      valueL -=3D element.scrollLeft || 0;
+    } while (element =3D element.parentNode);
+
+    return [valueL, valueT];
+  },
+
+  clone: function(source, target) {
+    var options =3D Object.extend({
+      setLeft:    true,
+      setTop:     true,
+      setWidth:   true,
+      setHeight:  true,
+      offsetTop:  0,
+      offsetLeft: 0
+    }, arguments[2] || {})
+
+    // find page position of source
+    source =3D $(source);
+    var p =3D Position.page(source);
+
+    // find coordinate system to use
+    target =3D $(target);
+    var delta =3D [0, 0];
+    var parent =3D null;
+    // delta [0,0] will do fine with position: fixed elements,
+    // position:absolute needs offsetParent deltas
+    if (Element.getStyle(target,'position') =3D=3D 'absolute') {
+      parent =3D Position.offsetParent(target);
+      delta =3D Position.page(parent);
+    }
+
+    // correct by body offsets (fixes Safari)
+    if (parent =3D=3D document.body) {
+      delta[0] -=3D document.body.offsetLeft;
+      delta[1] -=3D document.body.offsetTop;
+    }
+
+    // set position
+    if(options.setLeft)   target.style.left  =3D (p[0] - delta[0] + =
+options.offsetLeft) + 'px';
+    if(options.setTop)    target.style.top   =3D (p[1] - delta[1] + =
+options.offsetTop) + 'px';
+    if(options.setWidth)  target.style.width =3D source.offsetWidth + =
+'px';
+    if(options.setHeight) target.style.height =3D source.offsetHeight + =
+'px';
+  },
+
+  absolutize: function(element) {
+    element =3D $(element);
+    if (element.style.position =3D=3D 'absolute') return;
+    Position.prepare();
+
+    var offsets =3D Position.positionedOffset(element);
+    var top     =3D offsets[1];
+    var left    =3D offsets[0];
+    var width   =3D element.clientWidth;
+    var height  =3D element.clientHeight;
+
+    element._originalLeft   =3D left - parseFloat(element.style.left  || =
+0);
+    element._originalTop    =3D top  - parseFloat(element.style.top || =
+0);
+    element._originalWidth  =3D element.style.width;
+    element._originalHeight =3D element.style.height;
+
+    element.style.position =3D 'absolute';
+    element.style.top    =3D top + 'px';;
+    element.style.left   =3D left + 'px';;
+    element.style.width  =3D width + 'px';;
+    element.style.height =3D height + 'px';;
+  },
+
+  relativize: function(element) {
+    element =3D $(element);
+    if (element.style.position =3D=3D 'relative') return;
+    Position.prepare();
+
+    element.style.position =3D 'relative';
+    var top  =3D parseFloat(element.style.top  || 0) - =
+(element._originalTop || 0);
+    var left =3D parseFloat(element.style.left || 0) - =
+(element._originalLeft || 0);
+
+    element.style.top    =3D top + 'px';
+    element.style.left   =3D left + 'px';
+    element.style.height =3D element._originalHeight;
+    element.style.width  =3D element._originalWidth;
+  }
+}
+
+// Safari returns margins on body which is incorrect if the child is =
+absolutely
+// positioned.  For performance reasons, redefine =
+Position.cumulativeOffset for
+// KHTML/WebKit only.
+if (/Konqueror|Safari|KHTML/.test(navigator.userAgent)) {
+  Position.cumulativeOffset =3D function(element) {
+    var valueT =3D 0, valueL =3D 0;
+    do {
+      valueT +=3D element.offsetTop  || 0;
+      valueL +=3D element.offsetLeft || 0;
+      if (element.offsetParent =3D=3D document.body)
+        if (Element.getStyle(element, 'position') =3D=3D 'absolute') =
+break;
+
+      element =3D element.offsetParent;
+    } while (element);
+
+    return [valueL, valueT];
+  }
+}
+------=_NextPart_000_0000_01CD52E3.A1BC52E0--
